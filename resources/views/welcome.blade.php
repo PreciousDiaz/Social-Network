@@ -7,7 +7,7 @@
 @section('content')
 	<div class = "row">
 	<h3>Sign Up</h3>
-		<div class="col-6">
+		<div class="col-md-6">
 			<form action="#" method="post">
 				<div class ="form-group">
 					<label form="email">Your E-mail</label>
@@ -27,7 +27,7 @@
 				</form>
 	</div>
 	
-	<div class="col-6">
+	<div class="col-md-6">
 	<h3>Sign In</h3>
 			<form action="#" method="post">
 				<div class ="form-group">
